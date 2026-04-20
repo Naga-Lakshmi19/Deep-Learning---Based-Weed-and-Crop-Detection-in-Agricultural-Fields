@@ -1,3 +1,7 @@
+#Harvesting Stability: A Predictive Machine Learning System to Empower Farmers Against Market Volatility (Mini 1)
+
+
+
 # -*- coding: utf-8 -*-
 """Untitled27.ipynb
 
